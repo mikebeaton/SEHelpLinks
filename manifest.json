@@ -1,0 +1,22 @@
+{
+  "name": "Stack Exchange Help Links",
+  "version": "0.3.0",
+  "description": "Adds useful help links to Stack Exchange and Stack Overflow sites. Icon courtesy of https://icons8.com .",
+  "homepage_url": "https://github.com/MikeBeaton/SEHelpLinks",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://stackoverflow.com/*",
+        "https://*.stackoverflow.com/*",
+        "https://stackexchange.com/*",
+        "https://*.stackexchange.com/*"
+      ],
+      "js": ["add-links.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "48": "Help-48x48.png"
+  }
+}
