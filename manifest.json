@@ -1,7 +1,7 @@
 {
   "name": "Stack Exchange Help Links",
   "short_name": "SEHelpLinks",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Adds useful help links to Stack Exchange and Stack Overflow sites.",
   "homepage_url": "https://github.com/MikeBeaton/SEHelpLinks",
   "manifest_version": 2,
@@ -21,8 +21,7 @@
         "https://stackapps.com/*",
         "https://*.stackapps.com/*"
       ],
-      "js": ["add-links.js"],
-      "run_at": "document_end"
+      "js": ["add-links.js"]
     }
   ],
   "icons": {
