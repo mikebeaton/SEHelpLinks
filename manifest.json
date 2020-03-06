@@ -1,7 +1,7 @@
 {
   "name": "Stack Exchange Help Links",
   "short_name": "SEHelpLinks",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Adds useful help links to Stack Exchange and Stack Overflow sites.",
   "homepage_url": "https://github.com/MikeBeaton/SEHelpLinks",
   "manifest_version": 2,
@@ -26,7 +26,7 @@
     }
   ],
   "icons": {
-    "48": "Help-48x48.png",
-    "128": "Help-128x128.jpg"
+    "48": "Help-Green-48x48.jpg",
+    "128": "Help-Green-128x128.jpg"
   }
 }
