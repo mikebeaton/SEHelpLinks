@@ -1,7 +1,7 @@
 {
   "name": "Stack Exchange Help Links",
   "short_name": "SEHelpLinks",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Adds useful help links to Stack Exchange and Stack Overflow sites. Icon courtesy of https://icons8.com .",
   "homepage_url": "https://github.com/MikeBeaton/SEHelpLinks",
   "manifest_version": 2,
@@ -15,7 +15,11 @@
         "https://superuser.com/*",
         "https://*.superuser.com/*",
         "https://serverfault.com/*",
-        "https://*.serverfault.com/*"        
+        "https://*.serverfault.com/*",
+        "https://askubuntu.com/*",
+        "https://*.askubuntu.com/*",
+        "https://stackapps.com/*",
+        "https://*.stackapps.com/*"
       ],
       "js": ["add-links.js"],
       "run_at": "document_end"
