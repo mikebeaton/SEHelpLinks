@@ -2,7 +2,7 @@
 
 ## Stack Exchange Help Links Chome Extension
 
-[Get it here!]()
+[Get it here!](https://chrome.google.com/webstore/detail/stack-exchange-help-links/ckpachebenneicjfndebehniipdlhncc)
 
 Adds useful help links to all Stack Exchange and Stack Overflow sites:
 
